@@ -57,13 +57,16 @@ A seguir, está os print screens da conexão do recurso com o Language Studio:
 
 ## Insights e Possibilidades:
 1. **Identificação de Sentimento:**
+   
   1.1. O serviço é capaz de identificar sentimentos positivos, negativos e neutros em um texto.
   1.2. As pontuações de confiança ajudam a avaliar a precisão da análise de sentimento.
 
-2. **Aplicações Potenciais:**
+3. **Aplicações Potenciais:**
+   
   2.1. Empresas podem usar essa análise para entender a recepção de produtos, serviços ou experiências do cliente.
   2.2. Agências de viagens podem avaliar revisões de hotéis para fornecer recomendações mais precisas aos clientes.
 
-3. **Melhorias e Ajustes:**
+5. **Melhorias e Ajustes:**
+   
   3.1.. É importante revisar e ajustar o modelo conforme necessário para melhorar a precisão da análise de sentimento.
   3.2. Examinar manualmente os resultados pode revelar nuances que o modelo pode não capturar completamente.
